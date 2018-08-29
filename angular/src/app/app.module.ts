@@ -14,6 +14,7 @@ import { ServerViewComponent } from './main-view/system-view/site-view/server-vi
 import { ServerComponent } from './main-view/system-view/site-view/server-view/server/server.component';
 import { CommandListComponent } from './main-view/system-view/site-view/server-view/command-list/command-list.component';
 import { CommandComponent } from './main-view/system-view/site-view/server-view/command-list/command/command.component';
+import {FontAwesomeModule} from "@fortawesome/angular-fontawesome";
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { CommandComponent } from './main-view/system-view/site-view/server-view/
     CommandComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
