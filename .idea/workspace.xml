@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2b6040ca-f62c-491b-86fb-32f182eb690b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command/command.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command/command.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command/command.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command/command.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/src/app/menu/menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/menu/menu.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/src/app/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/src/app/menu/menu.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -167,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -177,7 +177,7 @@
         <entry file="file://$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -269,102 +269,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="list-sensor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="list-sensor" type="462c0819:PsiDirectoryNode" />
-              <item name="sensor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="site-view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="site-view" type="462c0819:PsiDirectoryNode" />
-              <item name="server-view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="site-view" type="462c0819:PsiDirectoryNode" />
-              <item name="server-view" type="462c0819:PsiDirectoryNode" />
-              <item name="command-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="site-view" type="462c0819:PsiDirectoryNode" />
-              <item name="server-view" type="462c0819:PsiDirectoryNode" />
-              <item name="command-list" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectY" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main-view" type="462c0819:PsiDirectoryNode" />
-              <item name="system-view" type="462c0819:PsiDirectoryNode" />
-              <item name="site-view" type="462c0819:PsiDirectoryNode" />
-              <item name="server-view" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -425,11 +329,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9377000" />
+    <option name="totallyTimeSpent" value="10499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1718503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -442,9 +345,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49973643" weight="0.3297414" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3135776" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002636" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -518,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -540,7 +443,7 @@
     <entry file="file://$PROJECT_DIR$/angular/src/app/main-view/system-view/site-view/server-view/command-list/command-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
